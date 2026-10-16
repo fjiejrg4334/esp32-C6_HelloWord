@@ -1,0 +1,13 @@
+# ESP-IDF 编译产物
+build/
+managed_components/
+
+# 本地配置
+sdkconfig
+sdkconfig.old
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+*.swp
+.DS_Store
